@@ -1,7 +1,7 @@
 # Weather-App
 Provides the weather forecast of different cities
 
-API name - WeatherApi.com  Source-rapidapi.com
+API name - WeatherApi.com  Source-rapidapi.com  https://rapidapi.com/weatherapi/api/weatherapi-com
 const options = {
 	method: 'GET',
 	headers: {
